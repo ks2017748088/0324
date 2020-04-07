@@ -14,4 +14,4 @@ report1 [2019-03-24]
 
 report2 [2019-04-07]  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1. Test and upload make by changing long.c file to multi-module  program (use the mygets function)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. "Synchronous/asynchronous, block/non-block" concept upload
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2. "Synchronous/asynchronous, block/non-block" concept upload한글
